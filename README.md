@@ -5,4 +5,11 @@ I am currently working for a game known as <a href="https://www.roblox.com/games
 <br>
 <br>
 <br>
-[<img src="https://seeklogo.com/images/R/roblox-studio-logo-C006FB6F49-seeklogo.com.png" width="75" title="My Roblox Profile">](https://www.roblox.com/users/5143185060/profile)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" width="75" title="My Discord Profile">](https://discord.com/users/1098580966685020202)
+<p align="center">
+  <a href="https://www.roblox.com/users/5143185060/profile" style="text-decoration: none;">
+    <img src="https://seeklogo.com/images/R/roblox-studio-logo-C006FB6F49-seeklogo.com.png" width="75" title="My Roblox Profile">
+  </a>
+  <a href="https://discord.com/users/1098580966685020202" style="text-decoration: none;">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" width="75" title="My Discord Profile">
+  </a>
+</p>
